@@ -94,8 +94,8 @@ body {
     --text-5: var(--green-5); /* muted channels/chats and timestamps */
 
     /* background and light colors */
-    --bg-1: oklch(0.452 0.313214 264.052); /* dark buttons when clicked */
-    --bg-2: oklch(0.628 0.2577 29.23); /* dark buttons */
+    --bg-1: oklch(0.892 0.0284 98.1); /* dark buttons when clicked */
+    --bg-2: oklch(0.892 0.0284 98.1); /* dark buttons */
     --bg-3: oklch(0.892 0.0284 98.1); /* spacing, secondary elements */
     --bg-4: oklch(0.9735 0.0261 90.1); /* main background color */
     --hover: var(--bg-2); /* channels and buttons when hovered */
